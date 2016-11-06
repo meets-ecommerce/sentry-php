@@ -18,7 +18,7 @@
     "require": {
         "php": ">=5.2.4",
         "ext-curl": "*",
-        "monolog/monolog": "*"
+        "monolog/monolog": "1.21.0"
     },
     "conflict": {
         "raven/raven": "*"
